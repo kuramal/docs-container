@@ -4,7 +4,7 @@
 
 ## Kubernetes相关
 
-* [资源限制-CPU](kubernetes/zi-yuan-xian-zhi-cpu.md)
+* [资源限制-CPU](kubernetes/cpu_resource_limit.md)
 
 ## 容器相关
 
