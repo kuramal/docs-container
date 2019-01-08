@@ -5,7 +5,7 @@
 ## Kubernetes相关
 
 * [资源限制-CPU](kubernetes/cpu_resource_limit.md)
-* [kube-proxy config](kubernetes/kube-proxy-iptables.md)
+* [kube-proxy config](kubernetes/kube-proxy-config.md)
 
 ## 容器相关
 
